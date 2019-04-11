@@ -1,0 +1,27 @@
+/*
+white: #F7F9F9;
+light-blue: #2081C3;
+dark-blue: #0A2C42;
+grey: rgba(145, 145, 145, 0.481);
+font-family: Arial, Helvetica, sans-serif
+*/
+  .navigation {
+      background-color:#2081C3;
+  }
+  .intro {
+      margin: 80px, 0px;
+  }
+  .main-img {
+      width: 40%;
+      height: auto;
+  }
+  .beers-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin: 40px 0px;
+      
+  }
+  .beer-card {
+      margin-bottom: 20px;
+  }
